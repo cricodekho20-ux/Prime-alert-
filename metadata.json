@@ -1,0 +1,6 @@
+{
+  "name": "Prime Alert",
+  "description": "Prime Alert - हर खबर पर आपकी नज़र। Modern, fast Hindi news app with breaking news alerts, categories, offline saved news, and an intuitive mobile news publishing admin workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
